@@ -1,7 +1,7 @@
 ### Hi, I'm Joachim 👋
 
 I'm an oldy full stack developer, teacher and public speaker. I was the creator of [MIH-fr](https://web.archive.org/web/20081102000256/http://www.mih-fr.net/), a website related to news about IT-Hardware. But it was also a community of lots of aficionados and fan of hardware tuning and benchmarking.
-Currently, I'm working as Team Lead to an amazing team located in Europe.
+Currently, I'm working as React Developer.
 
 - 🔭 I’m currently working on (stay tuned to be inform), [Joachim K. Justh](https://joachimjusth.com).
 - 🌱 I’m currently learning in depth new concept inside NextJs futur release, and React 18!
