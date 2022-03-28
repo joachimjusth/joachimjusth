@@ -7,7 +7,7 @@ Currently, I'm working as React Developer.
 - 🌱 I’m currently learning in depth new concept inside NextJs futur release, and React 18!
 - 💬 Ask me about React development, mounting cloud infra.
 - 👯 I’m looking to collaborate on charity project related to learn coding on junior.
-- 📫 How to reach me: https://joachimjusth.com/
+- 📫 How to reach me: https://joachimjusth.com/ (currently down, will be back soon with great features 😄 )
 - 😄 Pronouns: hi/him
 - ⚡ Fun fact: I love to travel, discover some new mindset / lifestyle. 
 
