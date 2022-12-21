@@ -3,12 +3,12 @@
 I'm an oldy full stack developer, teacher and public speaker. I was the creator of [MIH-fr](https://web.archive.org/web/20081102000256/http://www.mih-fr.net/), a website related to news about IT-Hardware. But it was also a community of lots of aficionados and fan of hardware tuning and benchmarking.
 Currently, I'm working as React Developer.
 
-- 🔭 I’m currently working on (stay tuned to be inform), [Joachim K. Justh](https://joachimjusth.com).
-- 🌱 I’m currently learning in depth new concept inside NextJs futur release, and React 18!
-- 💬 Ask me about React development, mounting cloud infra.
-- 👯 I’m looking to collaborate on charity project related to learn coding on junior.
+- 🔭 Currently working on revamp of [Joachim K. Justh](https://joachimjusth.com).
+- 🌱 Currently learning in depth tRPC and the amazing [t3-stack](https://create.t3.gg)
+- 💬 Ask me about React development, it'll be a pleasur to help you.
+- 👯 Looking to collaborate on charity project related to learn coding on junior, or also OSS.
 - 📫 How to reach me: https://joachimjusth.com/ (currently down, will be back soon with great features 😄 )
-- ⚡ Fun fact: I love to travel, discover some new mindset / lifestyle. 
+- ⚡ Fun fact: `To infinity and beyond`
 
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
