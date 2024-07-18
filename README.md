@@ -68,10 +68,6 @@ Currently, I'm working as Lead of web practice at [Alithya](https://www.alithya.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## GitHub Stats
-
-![Joachim Justh GitHub Stats](https://github-readme-stats.vercel.app/api?username=joachimjusth&count_private=true&show_icons=true&theme=merko&include_all_commits=true)
-
 ## Forum:
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/joachimjusth)
