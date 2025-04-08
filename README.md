@@ -4,8 +4,8 @@ I'm an oldy full stack developer, teacher and public speaker. I was the creator 
 Currently, I'm working as Lead of web practice at [Alithya](https://www.alithya.com), speciality ReactJS.
 
 - 🔭 Currently working on revamp of [Joachim K. Justh](https://joachimjusth.com).
-- 🌱 Helping on documentation of the [t3-stack](https://create.t3.gg)
-- 💬 Ask me about React development, it'll be a pleasur to help you.
+- 🌱 Helping on [irc7](https://github.com/irc7-com/irc7) and [t3-stack](https://create.t3.gg)
+- 💬 Ask me about React, NextJS, TypeScript, etc. It'll be a pleasur to help you.
 - ⚡ Fun fact: `To infinity and beyond`
   <br/>
 
