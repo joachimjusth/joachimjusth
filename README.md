@@ -1,7 +1,7 @@
 ### Hi, I'm Joachim 👋
 
 I'm an oldy full stack developer, teacher and public speaker. I was the creator of [MIH-fr](https://web.archive.org/web/20081102000256/http://www.mih-fr.net/), a website related to news about IT-Hardware. But it was also a community with a lot of aficionados and fan of hardware tuning and benchmarking.
-Currently, I'm working as Lead of web practice at [Alithya](https://www.alithya.com), speciality ReactJS.
+Currently, I'm working as Expertise Team Leader (Digital Studio) at [Alithya](https://www.alithya.com), speciality ReactJS.
 
 - 🔭 Currently working on revamp of [Joachim K. Justh](https://joachimjusth.com).
 - 🌱 Helping on [irc7](https://github.com/irc7-com/irc7) and [t3-stack](https://create.t3.gg)
